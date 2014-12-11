@@ -9,6 +9,7 @@ Hack Ideas:
 2. Action figure w/ BackTrack Augmented Reality
 3. Chromecast for everything
 4. Tethernet
+5. IFFT for charitable donations - Use Meteor.js, hugginn, stripe, plaid
 
 Fun Projects:
 
@@ -27,3 +28,4 @@ http://fritzing.org/projects/spark-core-shield-toilet-hack
 https://pinocc.io/
 
 http://developer.octoblu.com/
+
